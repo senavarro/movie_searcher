@@ -8,7 +8,7 @@ export class SearchForm extends Component {
     }
 
     _handleChange = (e) => {
-        this.setState({ inputMovie: e.target.value}) // Gets the value insert on the field
+        this.setState({ inputMovie: e.target.value})
     }
 
     _handleSubmit = (e) => {     

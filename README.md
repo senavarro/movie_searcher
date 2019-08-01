@@ -18,3 +18,7 @@ Commit 4:
 Bugs fixed. Now if the search can't find a result doesn't return an error because of the value of not found being 'undefined'.
 Now it returns a message because we get the result in search and make it an array by default, and totalResults a '0'. 
 
+Commit 5: 
+
+Created routes and added a Homepage. 
+
