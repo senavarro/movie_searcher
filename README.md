@@ -22,3 +22,6 @@ Commit 5:
 
 Created routes and added a Homepage. 
 
+Commit 6: 
+
+Using React Router, now we have an SPA. 
