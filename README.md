@@ -25,3 +25,8 @@ Created routes and added a Homepage.
 Commit 6: 
 
 Using React Router, now we have an SPA. 
+
+Commit 7: 
+
+Page 404 inserted using React Router. When it doesn't detect one of the used routes, it returns the 404.
+Also improved Back to homepage button. 
